@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-깃허브 테스트용123
+메인립니다.
 </body>
 </html>
